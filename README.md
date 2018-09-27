@@ -7,7 +7,7 @@
 总数据为分216个文件夹，每个文件夹中有300条邮件数据。共216x300 64800条数据    
 数据格式为（示例）：    
 文件头：    
-Received: from hotmail.com ([219.133.229.24])    # 发送者服务商及ip
+Received: from hotmail.com ([219.133.229.24])    # 发送者服务商及ip     
 	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7HBKuJl000715    
 	for <hou@ccert.edu.cn>; Sun, 21 Aug 2005 14:22:48 +0800 (CST)    
 Message-ID: <200508171920.j7HBKuJl000715@spam-gw.ccert.edu.cn>   
